@@ -114,16 +114,6 @@ The programs are executed successfully.
 
 
 
-##OUTPUT
-
-
-
-
-
-
-
-
-## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
 
 
@@ -135,39 +125,3 @@ The programs are executed successfully.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# RESULT:
-The programs are executed successfully.
